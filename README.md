@@ -1,4 +1,3 @@
-
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
